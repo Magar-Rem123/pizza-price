@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>pizza</title>
+</head>
+<body>
+	<h1>Hellow world</h1>
+	<form action = "{{url_for('predict')}}" method = 'POST'>
+		<label>Select Company:</label>
+		<select id='company' name = 'company' type ='number'>
+			{%for c in company %}
+			<option value = "{{c}}">{{c}}</option>
+			{%endfor%}
+		</select>
+		<label>Select topping:</label>
+		<select id='topping' name = 'topping'>
+			{%for t in topping %}
+			<option value = "{{t}}">{{t}}</option>
+			{%endfor%}
+		</select>
+		<label>Select variant:</label>
+		<select id='variant' name = 'variant'>
+			{%for v in variant %}
+			<option value = "{{v}}">{{v}}</option>
+			{%endfor%}
+		</select>
+		<label>Select size:</label>
+		<select id='size' name = 'size'>
+			{%for s in size %}
+			<option value = "{{s}}">{{s}}</option>
+			{%endfor%}
+		</select>
+		<label>Extra Sauce:</label>
+		<input type="text" name="extra_sauce" placeholder="1 for yes and 0 for no"><br>
+		<label>Extra Cheese</label>
+		<input type="text" name="extra_cheese" placeholder="1 for yes and 0 fo no">
+		<button type = 'submit'> Predict Price</button>
+	</form>
+	<h3> {{prediction_text}}</h3>
+
+</body>
+</html>

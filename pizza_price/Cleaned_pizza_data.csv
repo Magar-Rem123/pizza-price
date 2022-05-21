@@ -1,0 +1,126 @@
+,company,price,diameter,topping,variant,size,extra_sauce,extra_cheese
+0,A,1269.0,22.0,chicken,double_signature,jumbo,yes,yes
+1,A,1069.2,20.0,papperoni,double_signature,jumbo,yes,yes
+2,A,648.0,16.0,mushrooms,double_signature,reguler,yes,yes
+3,A,837.0,14.0,smoked beef,double_signature,reguler,yes,no
+4,A,1339.2,18.0,mozzarella,double_signature,jumbo,yes,no
+5,A,756.0,18.5,black papper,american_favorite,jumbo,no,no
+7,A,378.0,8.0,papperoni,american_favorite,reguler,no,no
+8,A,486.0,12.0,mushrooms,american_favorite,reguler,yes,no
+9,A,486.0,12.0,smoked beef,american_favorite,reguler,no,no
+10,A,756.0,18.5,mozzarella,super_supreme,jumbo,no,no
+12,A,378.0,8.0,smoked beef,super_supreme,reguler,yes,yes
+13,A,486.0,12.0,black papper,super_supreme,reguler,no,yes
+14,A,486.0,12.0,mozzarella,super_supreme,reguler,no,yes
+15,A,756.0,18.5,mozzarella,meat_lovers,jumbo,no,yes
+17,A,378.0,8.0,chicken,meat_lovers,reguler,yes,yes
+18,A,486.0,12.0,mushrooms,meat_lovers,reguler,yes,yes
+19,A,486.0,12.0,mozzarella,meat_lovers,reguler,yes,yes
+20,A,1242.0,22.0,chicken,double_mix,jumbo,yes,yes
+21,A,1015.2,18.5,mushrooms,double_mix,jumbo,yes,yes
+22,A,615.6,14.0,chicken,double_mix,reguler,yes,yes
+23,A,804.6,16.5,smoked beef,double_mix,reguler,yes,no
+24,A,804.6,16.5,chicken,double_mix,reguler,yes,no
+25,B,126.9,8.5,mozzarella,classic,small,yes,no
+26,B,248.4,12.0,chicken,classic,medium,yes,no
+27,B,388.8,14.0,smoked beef,classic,large,yes,no
+28,B,264.6,12.0,mozzarella,crunchy,medium,no,no
+29,B,448.20000000000005,17.0,chicken,new_york,XL,no,yes
+30,B,518.4,12.0,chicken,double_decker,medium,no,yes
+31,B,167.4,8.5,mushrooms,classic,small,yes,yes
+32,B,372.6,12.0,chicken,classic,medium,no,yes
+33,B,502.20000000000005,14.0,mushrooms,classic,large,no,yes
+34,B,405.0,12.0,mushrooms,crunchy,medium,no,yes
+35,B,621.0,17.0,mozzarella,new_york,XL,no,yes
+36,B,664.2,12.0,smoked beef,double_decker,medium,yes,yes
+37,B,178.20000000000002,8.5,chicken,classic,small,no,yes
+38,B,248.4,12.0,mozzarella,classic,medium,yes,yes
+39,B,388.8,14.0,chicken,classic,large,yes,yes
+40,B,410.40000000000003,12.0,chicken,crunchy,medium,no,no
+41,B,642.6,17.0,mushrooms,new_york,XL,yes,no
+42,B,683.1,12.0,smoked beef,double_decker,medium,yes,no
+43,B,405.0,8.5,smoked beef,classic,small,yes,yes
+44,B,248.4,12.0,mushrooms,classic,medium,yes,yes
+45,B,388.8,14.0,mozzarella,classic,large,yes,yes
+46,B,264.6,12.0,smoked beef,crunchy,medium,no,yes
+47,B,448.20000000000005,17.0,chicken,new_york,XL,no,yes
+48,B,518.4,12.0,mushrooms,double_decker,medium,no,yes
+49,C,210.60000000000002,8.5,tuna,spicy_tuna,small,yes,yes
+50,C,388.8,12.0,tuna,spicy_tuna,medium,yes,yes
+51,C,534.6,14.0,tuna,spicy_tuna,large,yes,yes
+52,C,237.60000000000002,8.5,meat,BBQ_meat_fiesta,small,yes,no
+53,C,421.20000000000005,12.0,meat,BBQ_meat_fiesta,medium,no,no
+54,C,567.0,14.0,meat,BBQ_meat_fiesta,large,yes,no
+55,C,210.60000000000002,8.5,sausage,BBQ_sausage,small,no,yes
+56,C,388.8,12.0,sausage,BBQ_sausage,medium,yes,yes
+57,C,534.6,14.0,sausage,BBQ_sausage,large,no,yes
+58,C,189.0,8.5,mushrooms,extravaganza,small,yes,yes
+59,C,324.0,12.0,onion,extravaganza,medium,yes,yes
+60,C,529.2,14.0,mozzarella,extravaganza,large,yes,yes
+61,C,189.0,8.5,meat,meat_eater,small,yes,yes
+62,C,324.0,12.0,meat,meat_eater,medium,yes,yes
+63,C,529.2,14.0,meat,meat_eater,large,yes,yes
+64,C,237.60000000000002,8.5,vegetables,gournet_greek,small,no,no
+65,C,421.20000000000005,12.0,vegetables,gournet_greek,medium,no,no
+66,C,567.0,14.0,vegetables,gournet_greek,large,no,no
+67,C,151.20000000000002,8.5,vegetables,italian_veggie,small,no,yes
+68,C,275.40000000000003,12.0,vegetables,italian_veggie,medium,no,yes
+69,C,453.6,14.0,vegetables,italian_veggie,large,yes,yes
+70,C,210.60000000000002,8.5,vegetables,thai_veggie,small,no,yes
+71,C,388.8,12.0,vegetables,thai_veggie,medium,yes,no
+72,C,534.6,14.0,vegetables,thai_veggie,large,no,no
+73,C,189.0,8.5,beef,american_classic,small,yes,no
+74,C,324.0,12.0,beef,american_classic,medium,yes,no
+75,C,529.2,14.0,beef,american_classic,large,yes,no
+76,C,172.8,8.5,tuna,neptune_tuna,small,yes,no
+77,C,291.6,12.0,tuna,neptune_tuna,medium,yes,yes
+78,C,496.8,14.0,tuna,neptune_tuna,large,yes,yes
+79,D,756.0,18.5,mozzarella,meat_lovers,jumbo,no,yes
+81,D,378.0,8.0,chicken,meat_lovers,reguler,yes,yes
+82,D,486.0,12.0,mushrooms,meat_lovers,reguler,yes,yes
+83,D,486.0,12.0,mozzarella,meat_lovers,reguler,yes,yes
+84,D,1242.0,22.0,chicken,double_mix,jumbo,yes,yes
+85,D,1015.2,18.5,mushrooms,double_mix,jumbo,yes,yes
+86,D,615.6,14.0,chicken,double_mix,reguler,yes,yes
+87,D,804.6,16.5,smoked beef,double_mix,reguler,yes,no
+88,D,804.6,16.5,chicken,double_mix,reguler,yes,no
+89,D,126.9,8.5,mozzarella,classic,small,yes,no
+90,D,248.4,12.0,chicken,classic,medium,yes,no
+91,D,388.8,14.0,smoked beef,classic,large,yes,no
+92,D,264.6,12.0,mozzarella,crunchy,medium,no,no
+93,D,448.20000000000005,17.0,chicken,new_york,XL,no,yes
+94,D,518.4,12.0,chicken,double_decker,medium,no,yes
+95,D,167.4,8.5,mushrooms,classic,small,yes,yes
+96,D,372.6,12.0,chicken,classic,medium,no,yes
+97,D,502.20000000000005,14.0,mushrooms,classic,large,no,yes
+98,D,405.0,12.0,mushrooms,crunchy,medium,no,yes
+99,E,621.0,17.0,mozzarella,new_york,XL,no,yes
+100,E,126.9,8.5,mozzarella,classic,small,yes,no
+101,E,248.4,12.0,chicken,classic,medium,yes,no
+102,E,388.8,14.0,smoked beef,classic,large,yes,no
+103,E,264.6,12.0,mozzarella,crunchy,medium,no,no
+104,E,448.20000000000005,17.0,chicken,new_york,XL,no,yes
+105,E,518.4,12.0,chicken,double_decker,medium,no,yes
+106,E,167.4,8.5,mushrooms,classic,small,yes,yes
+107,E,372.6,12.0,chicken,classic,medium,no,yes
+108,E,502.20000000000005,14.0,mushrooms,classic,large,no,yes
+109,E,405.0,12.0,mushrooms,crunchy,medium,no,yes
+110,E,621.0,17.0,mozzarella,new_york,XL,no,yes
+111,E,664.2,12.0,smoked beef,double_decker,medium,yes,yes
+112,E,178.20000000000002,8.5,chicken,classic,small,no,yes
+113,E,248.4,12.0,mozzarella,classic,medium,yes,yes
+114,E,388.8,14.0,chicken,classic,large,yes,yes
+115,E,410.40000000000003,12.0,chicken,crunchy,medium,no,no
+116,E,642.6,17.0,mushrooms,new_york,XL,yes,no
+117,E,683.1,12.0,smoked beef,double_decker,medium,yes,no
+118,E,405.0,8.5,smoked beef,classic,small,yes,yes
+119,E,248.4,12.0,mushrooms,classic,medium,yes,yes
+120,E,388.8,14.0,mozzarella,classic,large,yes,yes
+121,E,264.6,12.0,smoked beef,crunchy,medium,no,yes
+122,E,448.20000000000005,17.0,chicken,new_york,XL,no,yes
+123,E,518.4,12.0,mushrooms,double_decker,medium,no,yes
+124,E,210.60000000000002,8.5,tuna,spicy tuna,small,yes,yes
+125,E,388.8,12.0,tuna,spicy tuna,medium,yes,yes
+126,E,534.6,14.0,tuna,spicy tuna,large,yes,yes
+127,E,237.60000000000002,8.5,meat,BBQ_meat_fiesta,small,yes,no
+128,E,421.20000000000005,12.0,meat,BBQ_meat_fiesta,medium,no,no
